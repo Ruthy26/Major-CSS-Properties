@@ -1,0 +1,54 @@
+html {
+    box-sizing: border-box;
+    background-color: beige;
+    font-family: monospace;
+}
+
+h1 {
+    font-size: 35px;
+    text-align: center;
+    background-color: white;
+    border: 2px solid white;
+    border-radius: 20px;
+    min-height: 40px;
+    padding-top: 5px;
+}
+
+.first-h3,
+.second-h3,
+.third-h3 {
+    font-size: 18px;
+}
+
+.section_one {
+    background-color: white;
+    color: green;
+    font-style: italic;
+    font-size: 14px;
+    border: 2px solid white;
+    border-radius: 30px;
+    padding: 11.5px;
+    margin: 20px;
+}
+
+.section_two {
+    background-color: white;
+    color: red;
+    font-style: italic;
+    font-size: 14px;
+    border: 2px solid white;
+    border-radius: 30px;
+    padding: 11.5px;
+    margin: 20px;
+}
+
+.section_three {
+    background-color: white;
+    color: blue;
+    font-style: italic;
+    font-size: 14px;
+    border: 2px solid white;
+    border-radius: 30px;
+    padding: 11.5px;
+    margin: 20px;
+}
